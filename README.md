@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Wolf</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfdwyc&label=Profile%20views&color=0e75b6&style=flat" alt="wolfdwyc" /> </p>
 
 Most of my projects are private, and are usually related to the hobby i'm currently pursuing.
 I like to explore different fields of programming, and doing all sort of stuff:
@@ -28,3 +27,6 @@ And I worked on these a lot:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfdwyc&show_icons=true&locale=en&layout=compact" alt="wolfdwyc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfdwyc&show_icons=true&locale=en" alt="wolfdwyc" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfdwyc&label=Profile%20views&color=0e75b6&style=flat" alt="wolfdwyc" /> </p>
+
